@@ -8,10 +8,10 @@
 
 ## Quickstart
 
- 1. From the *Add Resources* Jacks, page load the following url:
+ 1. From the *Add Resources* Jacks page load the following url:
 ```
 https://raw.githubusercontent.com/seledwards/helloworld/master/installtest/install_request.rspec
 ```
- 1. Bind the node to an InstaGENI or ExoGENI aggregate.
- 2. Reserve the topology.
- 3. When the node is ready, login and check for the existance of the empty file `/local/myspecialfile`
+ 2. Bind the node to an InstaGENI or ExoGENI aggregate.
+ 3. Reserve the topology.
+ 4. When the node is ready, login and check for the existance of the empty file `/local/myspecialfile`
